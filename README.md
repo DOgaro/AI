@@ -1,2 +1,2 @@
 # AI
-Artificial Neural Networks
+Artificial Neural Networks for a self driving car
